@@ -4,3 +4,4 @@ The modules inside of this package are packed with useful features
 for the programmer who needs to support python:
 
 """
+import communications
